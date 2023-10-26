@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "Home",
+    "description": "Welcome to our homepage. We offer a range of services to help your business succeed.",
+    "keywords": "business, services, success, homepage",
+    "robots": "index, follow",
+    "ogTitle": "Home",
+    "ogDescription": "Welcome to our homepage. We offer a range of services to help your business succeed.",
+    "ogImage": "URL to the image you want to display when your homepage is shared on social media",
+    "ogUrl": "URL of your homepage"
+  },
+  "contents": {
+    "hero": {
+      "slides": [
+        {
+          "id": 1,
+          "title": "Empowering Local Businesses",
+          "subtitle": "Your success is our mission",
+          "description": "We provide the tools and resources to help your business thrive. Whether you need marketing, accounting, or web design services, we have the experts and solutions to meet your needs.",
+          "image": {
+            "src": "/media/images/000.jpg",
+            "alt": "Empowering Local Businesses"
+          },
+          "actions": [
+            {
+              "label": "Join Us",
+              "link": "/join",
+              "type": "primary",
+              "title": "Empowering Local Businesses"
+            },
+            {
+              "label": "Learn More",
+              "link": "/learn",
+              "type": "secondary",
+              "title": "Empowering Local Businesses"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Innovating for the Future",
+          "subtitle": "Stay ahead of the curve",
+          "description": "We’re driving innovation to keep your business at the forefront of your industry. By using cutting-edge technology, research, and best practices, we help you create products and services that stand out from the competition.",
+          "image": {
+            "src": "/media/images/001.jpg",
+            "alt": "Innovating for the Future"
+          },
+          "actions": [
+            {
+              "label": "Get Started",
+              "link": "/start",
+              "type": "primary",
+              "title": "Innovating for the Future"
+            },
+            {
+              "label": "Discover More",
+              "link": "/discover",
+              "type": "secondary",
+              "title": "Innovating for the Future"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Building Strong Partnerships",
+          "subtitle": "Together, we can achieve more",
+          "description": "We believe in the power of collaboration and building strong partnerships. That’s why we work closely with our clients, suppliers, and stakeholders to deliver value and achieve our goals.",
+          "image": {
+            "src": "/media/images/002.jpg",
+            "alt": "Building Strong Partnerships"
+          },
+          "actions": [
+            {
+              "label": "Partner with Us",
+              "link": "/partner",
+              "type": "primary",
+              "title": "Building Strong Partnerships"
+            },
+            {
+              "label": "Explore More",
+              "link": "/explore",
+              "type": "secondary",
+              "title": "Building Strong Partnerships"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Delivering Exceptional Results",
+          "subtitle": "Exceeding expectations",
+          "description": "We’re committed to delivering exceptional results and exceeding your expectations. We measure our success by your satisfaction and we always strive to go above and beyond.",
+          "image": {
+            "src": "/media/images/003.jpg",
+            "alt": "Delivering Exceptional Results"
+          },
+          "actions": [
+            {
+              "label": "See Results",
+              "link": "/results",
+              "type": "primary",
+              "title": "Delivering Exceptional Results"
+            },
+            {
+              "label": "Find Out More",
+              "link": "/findout",
+              "type": "secondary",
+              "title": "Delivering Exceptional Results"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
